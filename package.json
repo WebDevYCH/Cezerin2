@@ -159,7 +159,7 @@
     "html-webpack-plugin": "^5.5.0",
     "mini-css-extract-plugin": "^2.6.1",
     "postcss-loader": "^7.0.1",
-    "prettier": "^2.7.1",
+    "prettier": "^2.8.1",
     "prop-types": "^15.8.1",
     "regenerator-runtime": "^0.13.9",
     "sass-loader": "^13.0.2",
